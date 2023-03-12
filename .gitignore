@@ -1,0 +1,7 @@
+logs/
+outputs/
+recordings/
+transcripts/
+serviceAccount.json
+.env
+__pycache__/

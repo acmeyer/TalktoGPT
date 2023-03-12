@@ -1,0 +1,4 @@
+openai==0.27.0
+SpeechRecognition==3.9.0
+PyAudio==0.2.13
+google-cloud-texttospeech==2.14.1
